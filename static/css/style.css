@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(239, 222, 205);
+    font-family: "Helevetica Neue", serif;
+  }
+.jumbotron  {
+    color: black;
+    background-image: url("../img/jumbotron.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;  
+}
+#gauge {
+    background-color: white;
+
+  }
+.well  {
+    color: black;
+    font-weight: bold;
+    background-color: ivory;
+    border-radius: 2%; 
+    border-color: steelblue;
+    border-width: 8px;
+}
+#selDataset {
+    background-color: whitesmoke;
+    border-color: steelblue;
+    border-width: 3px;
+}
+
+.panel  {
+    color: black;
+    font-weight: bold;
+    background-color: ivory;
+    border-radius: 2%;
+    border-width: 8px;
+    border-color: steelblue;
+}
